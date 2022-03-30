@@ -1,0 +1,14 @@
+{
+"mainServer": 
+        {
+            "serverId": "608391763022970905",
+            "channelId": "892471743627800636"
+        },
+    "resendMessageTo": 
+        [
+		    { 
+                "serverId": "608391763022970905",
+                "channelId": "892471742365315202"
+            }
+		 ]
+ }
